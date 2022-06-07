@@ -1,0 +1,18 @@
+#import random
+#aa = "Your Mom "
+#bb = "Your Dad "
+#cc = "Your Family "
+#dd = "Your Cousin "
+#ee = "Your Lover "
+#ff = "Claire "
+#ff = "Shauna "
+#gg = "Mr. Poole "
+#people = [aa, bb, cc, dd, ee, ff, gg]
+
+your mom
+your dad
+your family
+your lover
+claire
+shauna 
+mr. poole

@@ -1,0 +1,19 @@
+#import random
+#a = "is smart"
+#b = "is attractive"
+#c = "is an intellectual"
+#d = "is cool"
+#e = "is fresh"
+#f = "is swaggy"
+#g = "is kind"
+#h = "is a girlboss"
+#compl = [a, b, c, d, e, f, g, h]
+
+is smart
+is attractive
+is an intellectual
+is cool
+is fresh
+is swaggy
+is kind
+is a girlboss

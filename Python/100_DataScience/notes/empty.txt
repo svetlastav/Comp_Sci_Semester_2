@@ -1,0 +1,20 @@
+numpy_101:
+import numpy as np
+from numpy import random
+size = int(input("please enter a size: "))
+min = int(input("please enter a minimum value"))
+max = int(input("please enter a maximum value"))
+meow = random.randint(min, max, size)
+print("the array: " + str(meow))
+print("Maximum: " + str(meow.max()))
+print("Minimum: " + str(meow.min()))
+average = meow.sum()/size
+print("Average: " + str(average))
+
+pandas_102:
+import pandas as pd
+movies_df = pd.read_csv("IMDB-Movie-Data.csv", index_col="Title")
+movies_df['Year'].plot(kind='hist', title='Year');
+movies_df.plot(kind='scatter', x='Year', y='Metascore', title='Year vs Metascore');
+revenue_mean = revenue.mean()
+revenue_mean
